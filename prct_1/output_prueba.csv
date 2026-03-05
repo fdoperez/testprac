@@ -1,0 +1,9 @@
+num_variables,num_cond_vars,num_interest_vars,conditional_dist_size,execution_time_us
+10,2,1,2,1517
+10,4,1,2,1324
+10,6,1,2,1348
+10,8,1,2,1730
+10,1,2,4,1626
+10,1,4,16,1938
+10,1,6,64,1710
+10,1,8,256,1800
